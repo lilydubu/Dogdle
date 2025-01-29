@@ -17,7 +17,7 @@ Dogdle is a command-line guessing game inspired by Wordle, where the player has 
    - Grey letters are incorrect.
 4. Win or Lose: If you guess the name correctly within six attempts, you win! If not, the correct answer will be revealed.
 
-#### If you'd like to it out:
+#### If you'd like to try it out:
 1.  Download the **dog_names.txt** file (or make your own list) in the same folder as **dogdle.py**.
 2.  Install rich library
 ```
